@@ -1,3 +1,5 @@
 HV-AI-2025/*
 venv/*
 *.pth
+labeled_data/*
+unlabeled_data/*
