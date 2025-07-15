@@ -3,3 +3,5 @@ venv/*
 *.pth
 labeled_data/*
 unlabeled_data/*
+HV-AI-2025-Test/*
+test_images/*
