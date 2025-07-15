@@ -299,7 +299,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Hariharan Mudaliar**
 - Email: hm4144@srmist.edu.in
-- GitHub: [@username](https://github.com/username)
+- GitHub: [@username](https://github.com/Ebulliscopic)
 
 ---
 
